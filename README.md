@@ -1,6 +1,16 @@
+```
 # GetLinuxOS
-A Shell script to print some informations about your Linux system (such as hostname, OS full name, kernel name, CPU, memory,...)
-<hr>
 
-### USAGE
-&nbsp;&nbsp; ``` ./GetLinuxOS.sh ```
+Shell script that prints useful information about a Linux system such as:
+
+1 - Hostname
+2 - Operating system name
+3 - Kernel version
+4 - CPU
+5 - Memory details
+6 - And more ...
+
+## Usage
+
+```bash
+./GetLinuxOS.sh
