@@ -1,15 +1,25 @@
 # Get-Linux-OS
 
-Shell script that prints useful information about a Linux system such as:
+Bash utility that collects and displays useful information about a Linux system.
 
-1 - Hostname <br>
-2 - Operating system name <br>
-3 - Kernel version <br>
-4 - CPU <br>
-5 - Memory details <br>
-6 - Disk partitions <br>
-7 - Network interfaces info <br>
-8 - And more ...
+## Collected Information
+
+- Hostname
+- Operating system name
+- Kernel version
+- CPU information
+- Memory details
+- Disk partitions
+- Disk usage
+- Network interfaces
+- DNS configuration
+- External IP address
+- Package manager information
+
+## Use Cases
+- Linux troubleshooting
+- System inventory
+- Monitoring support activities
 
 ## Usage
 
